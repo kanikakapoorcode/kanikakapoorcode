@@ -25,8 +25,6 @@
 
 I am a passionate Computer Science student at Graphic Era Hill University (CSE '27), focused on building robust, user-centric digital solutions. I thrive on challenges that bridge the gap between innovation and real-world impact, whether through frontend finesse or backend architecture. My approach is a blend of creativity, logic, and a drive to keep learning.
 
-> _"Code, to me, is not just syntax—it's the ink of innovation."_ ✨
-
 ---
 
 ### 🛠️ Technical Skills
@@ -37,26 +35,6 @@ I am a passionate Computer Science student at Graphic Era Hill University (CSE '
 - **Dev Tools:** Git, Figma, Canva, JWT,Google Maps API 
 - **Programming Languages:** JavaScript,JAVA, Python, C++, C  
 - **Data Structures and Algorithms:** 250+ LeetCode Qs
-
----
-
-### 🚀 Featured Projects
-
-#### [Smart Ride Booking System](https://github.com/kanikakapoorcode/SmartRide-Frontend)
-A full-stack Uber-like platform with real-time ride booking, route optimization, OTP authentication, and driver dashboards.  
-<sub>React • Flask • Google Maps API • PostgreSQL</sub>
-
-#### [Cloud-Based Finance Management System](https://github.com/kanikakapoorcode/cloud-based-finance-management-system)
-Track expenses, analyze trends, and predict financial outcomes in a sleek, interactive dashboard.  
-<sub>React • Node.js • MongoDB • Recharts • JWT</sub>
-
-#### [Camera Classifier](https://github.com/kanikakapoorcode/Camera-Classifier)
-Live action recognition using webcam and SVM models for gesture-based learning and interaction.  
-<sub>Python • OpenCV • SVM</sub>
-
-#### [SIH 2024 Finalist Project](https://github.com/kanikakapoorcode/SIH-2024-MAIN)
-An AI-based institutional inspection system designed for efficiency and transparency.  
-<sub>Flask APIs • ML Models • Supabase</sub>
 
 ---
 
