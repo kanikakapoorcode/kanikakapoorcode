@@ -63,8 +63,12 @@ Aspiring Software Engineer with experience in building full-stack applications u
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanikakapoorcode&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanikakapoorcode&theme=default" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kanikakapoorcode&show_icons=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=kanikakapoorcode" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kanikakapoorcode&layout=compact" height="160" />
 </p>
 
 ---
