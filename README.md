@@ -1,83 +1,72 @@
-<h1 align="center">Hi there 👋, I'm Kanika Kapoor</h1>
+
 <p align="center">
-  💻 Developer | 🎓 Computer Science Student | 🏅 SIH'24 Finalist  
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<h1 align="center">I am Kanika Kapoor</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanikakapoorcode&label=Profile%20views&color=0e75b6&style=flat" alt="kanikakapoorcode" />
+  <a href="https://www.linkedin.com/in/kanika-kapoor-532216286/">
+    <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/KanikaKapoor/">
+    <img height="50" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCDVhihqrq1x8zaweOL6aqLg">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png"/>
+  </a>&nbsp;&nbsp;
 </p>
 
----
-
+<h1 align="center">About Me</h1>
+<br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZsdG92M2x2N2ZqMjZxamltdHk0bDMydTl1MGJoc3NwY2drOXlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Za2KlPwihhN2YJ6eno/giphy.gif" width= "480 height ="480>
 </p>
+<br/>
+<div align="center">
+<ul >
+  <li>Well, I am just a keen learner and a person with high josh and spirit to work.</li>
+  <li>I have participated in numerous hackathons and have led my team to victory.</li>
+  <li>I have great knowledge about Full-stack web development.</li>
+  <li>I have great problem-solving skills, and I have a good conceptual understanding of DSA.</li>
+</ul>
+</div>
 
----
+<br/>
 
-### 👩‍💻 About Me
-
-I am a passionate Computer Science student at Graphic Era Hill University (CSE '27), focused on building robust, user-centric digital solutions. I thrive on challenges that bridge the gap between innovation and real-world impact, whether through frontend finesse or backend architecture. My approach is a blend of creativity, logic, and a drive to keep learning.
-
----
-
-### 🛠️ Technical Skills
-
-- **Frontend:** React , Tailwind css  
-- **Backend:** Node.js, Express.js
-- **Databases:** PostgreSQL, MongoDB
-- **Dev Tools:** Git, Figma, Canva, JWT,Google Maps API 
-- **Programming Languages:** JavaScript,JAVA, Python, C++, C  
-- **Data Structures and Algorithms:** 250+ LeetCode Qs
-
----
-
-### 🎯 Goals & Aspirations
-
-- Secure SDE internships at top tech companies such as Microsoft or Google  
-- Build technology that simplifies and enhances lives—across classrooms, cities, and communities  
-- Keep evolving as a developer, leader, and creative problem-solver  
-- Contribute to impactful open-source projects
-
----
-
-### 🌱 Beyond Coding
-
-When I'm not immersed in code, you’ll find me:
-- Journaling to bring clarity to chaos  
-- Editing vlogs & storytelling  
-- Sipping chai while dreaming up new ideas  
-- Reading and collecting quotes that inspire growth  
-
-> _"Stay curious, code bravely, and dream louder than doubt."_
-
----
-
-### 📬 Connect with Me
-
-| Platform   | Link |
-|------------|------|
-| GitHub     | [kanikakapoorcode](https://github.com/kanikakapoorcode) |
-| LinkedIn   | [Kanika Kapoor](https://linkedin.com/in/kanika-kapoor-532216286e) |
-| Email      | kanikakr276@gmail.com |
-| YouTube    | [chaosft.kanika](https://youtube.com/@ft.kanika_kapoor_27?si=QCWW9PDFnz3HkizC) |
-
----
-
-### 📈 GitHub Stats
-
+<h1 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanikakapoorcode&show_icons=true&theme=radical" alt="kanikakapoorcode stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanikakapoorcode&theme=radical" alt="kanikakapoorcode streak" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <!--Node Js -->
+  <img src="https://w7.pngwing.com/pngs/777/698/png-transparent-node-js-javascript-software-developer-npm-github-angle-text-logo-thumbnail.png" alt="javascript" width="45" height="45"/>
+   <!--React -->
+  <img src="https://img.icons8.com/cute-clipart/64/react-native.png" alt="javascript" width="45" height="45"/>
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+  <!-- Flask -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
+  <!-- npm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+  <!-- GitHub -->
+  <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="github" width="45" height="45"/>
+   <!-- Git-->
+  <img src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png" alt="github" width="45" height="45"/>
 </p>
+<br/>
 
----
+<h2 align="center">Thank you for Going through my profile</h2>
+
+<br/>
+
 <p align="center">
-  🌸 <i>Let’s build something impactful together — one commit at a time.</i>
-</p> improvise my github profile
+<img src="https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif" width="480" height="287">
+</p>
