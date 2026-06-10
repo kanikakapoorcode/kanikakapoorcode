@@ -6,12 +6,6 @@
   <a href="https://www.linkedin.com/in/kanika-kapoor-532216286/">
     <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png"/>
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/KanikaKapoor/">
-    <img height="50" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCDVhihqrq1x8zaweOL6aqLg">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png"/>
-  </a>&nbsp;&nbsp;
 </p>
 <h1 align="center">About Me</h1>
 <br/>
