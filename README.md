@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kanikakapoorcode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikakapoorcode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikakapoorcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="38%"/>
 </p>
 
 <h2 align="center">Thank you for going through my profile</h2>
