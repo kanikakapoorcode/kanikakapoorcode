@@ -5,15 +5,24 @@
 <h1 align="center">I am Kanika Kapoor</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kanika-kapoor-532216286/">
+  <a href="https://www.linkedin.com/in/kanikakapoor27/">
     <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/KanikaKapoor/">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://kanika-portfolio-sigma.vercel.app/">
+    <img height="50" src="https://img.icons8.com/fluency/96/domain.png"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/Kanikak664">
+    <img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png"/>
   </a>
 </p>
 
 <h1 align="center">About Me</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZsdG92M2x2N2ZqMjZxamltdHk0bDMydTl1MGJoc3NwY2drOXlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Za2KlPwihhN2YJ6eno/giphy.gif" width="480" height="287"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZsdG92M2x2N2ZqMjZxamltdHk0bDMydTl1MGJoc3NwY2drOXlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Za2KlPwihhN2YJ6eno/giphy.gif" width="480" height="480">
 </p>
 
 <p align="center">
