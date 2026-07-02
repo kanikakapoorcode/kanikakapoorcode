@@ -13,7 +13,7 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZsdG92M2x2N2ZqMjZxamltdHk0bDMydTl1MGJoc3NwY2drOXlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Za2KlPwihhN2YJ6eno/giphy.gif" width="480" height="480">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZsdG92M2x2N2ZqMjZxamltdHk0bDMydTl1MGJoc3NwY2drOXlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Za2KlPwihhN2YJ6eno/giphy.gif" width="480" height="287"/>
 </p>
 
 <p align="center">
